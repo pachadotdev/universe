@@ -20,7 +20,7 @@
     "url": "https://github.com/apache/arrow"
   },
   {
-    "package": "RVAideMemoire"
+    "package": "RVAideMemoire",
     "url": "https://github.com/pachadotdev/RVAideMemoire"
   }
 ]
