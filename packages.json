@@ -1,0 +1,22 @@
+[
+  {
+    "package": "tradepolicy"
+    "url": "https://github.com/pachadotdev/tradepolicy"
+  },
+  {
+    "package": "leontief"
+    "url": "https://github.com/pachadotdev/leontief"
+  },
+  {
+    "package": "tradestatistics"
+    "url": "https://github.com/ropensci/tradestatistics"
+  },
+  {
+    "package": "gravity"
+    "url": "https://github.com/pachadotdev/gravity"
+  },
+  {
+    "package": "arrow"
+    "url": "https://github.com/apache/arrow"
+  }
+]
