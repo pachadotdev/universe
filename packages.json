@@ -1,5 +1,9 @@
 [
   {
+    "package": "analogsea",
+    "url": "https://github.com/pachadotdev/analogsea"
+  },
+  {
     "package": "LSTS",
     "url": "https://github.com/pachadotdev/LSTS"
   },
