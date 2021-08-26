@@ -8,7 +8,19 @@
     "url": "https://github.com/pachadotdev/gravity"
   },
   {
+    "package": "eflm",
+    "url": "https://github.com/pachadotdev/eflm"
+  },
+  {
+    "package": "cepiigeodist",
+    "url": "https://github.com/pachadotdev/cepiigeodist"
+  },
+  {
     "package": "RVAideMemoire",
     "url": "https://github.com/pachadotdev/RVAideMemoire"
+  },
+  {
+    "package": "leontief",
+    "url": "https://github.com/pachadotdev/leontief"
   }
 ]
