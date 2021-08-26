@@ -1,5 +1,9 @@
 [
   {
+    "package": "LSTS",
+    "url": "https://github.com/pachadotdev/LSTS"
+  },
+  {
     "package": "tradepolicy",
     "url": "https://github.com/pachadotdev/tradepolicy"
   },
