@@ -30,5 +30,9 @@
   {
     "package": "leontief",
     "url": "https://github.com/pachadotdev/leontief"
+  },
+  {
+    "package": "varsityblues",
+    "url": "https://github.com/pachadotdev/varsityblues"
   }
 ]
