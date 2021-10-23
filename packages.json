@@ -34,5 +34,9 @@
   {
     "package": "varsityblues",
     "url": "https://github.com/pachadotdev/varsityblues"
+  },
+  {
+    "package": "canadamaps",
+    "url": "https://github.com/pachadotdev/canadamaps"
   }
 ]
