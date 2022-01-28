@@ -38,5 +38,9 @@
   {
     "package": "canadamaps",
     "url": "https://github.com/pachadotdev/canadamaps"
+  },
+  {
+    "package": "desta",
+    "url": "https://github.com/pachadotdev/desta"
   }
 ]
