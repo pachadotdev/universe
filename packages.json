@@ -42,5 +42,9 @@
   {
     "package": "desta",
     "url": "https://github.com/pachadotdev/desta"
+  },
+  {
+    "package": "desta",
+    "url": "https://github.com/pachadotdev/devEMF"
   }
 ]
